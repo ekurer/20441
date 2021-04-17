@@ -1,1 +1,1 @@
-Tasks for 20441 course in the Open University of Israel: Introduction to Computer Science with Java
+Tasks for  Introduction to Computer Science with Javacourse (20441) @the Open University of Israel.
